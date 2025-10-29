@@ -1,7 +1,9 @@
 ## Hei Kristian (smiley Face)
-Her er en demo av min tanke på turret hus. 
-Har parameterisert modellen slik at det er mulig å endre design veldig lett.
+Her er en demo av mitt konsept rundt turret base. 
+Har parameterisert modellen slik at det er mulig aa endre design lett.
 Hva tycks ? 
 
+**DEMO**
 
+![TurretBase](https://github.com/RealHaakon/TurretTing/blob/main/Bilder/TurretBase.gif)
 
